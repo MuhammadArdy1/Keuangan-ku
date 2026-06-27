@@ -1,0 +1,6 @@
+{
+  "name": "KeuanganKu",
+  "description": "Aplikasi manajemen keuangan pribadi terintegrasi dengan akun bank pengguna, dilengkapi pencatatan transaksi, analitik anggaran, dan asisten keuangan AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
